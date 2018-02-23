@@ -1,8 +1,8 @@
 ====  INTEGRANTES DEL EQUIPO  === 
 
+	* Sebastián Poveda
 	* Michelle Sánchez
 	* Erika Silva
 	* Juan Sulca
-	* Sebastián Poveda
 	* Jefferson Velasquez
 
